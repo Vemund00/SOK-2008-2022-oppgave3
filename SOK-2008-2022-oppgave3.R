@@ -247,8 +247,8 @@ minwage_plot1
 # tilbud og etterspørsel, at dersom prisen øker vil etterspørselen 
 # gå ned. I denne sammenhengen menes det at dersom laveste tillatte lønn 
 # settes høyere vil etterspørselen etter denne type arbeidskraft gå ned. 
-# Dette betyr at økede satser for minimumslønn vil føre til større 
-# arbeidsledighet.
+# Kort fortalt betyr det at hvis minimumslønnen stiger vil arbeidsledigheten
+# også stige.
 
 # De som hadde tjent på at minstelønnen ble borte er arbeidstakere 
 
@@ -352,7 +352,7 @@ minwage_plot3
 
 # Norge hadde nok ikke vært like populært å bo i hadde det ikke vært for 
 # tilbudet om gratis grunnskole og videregående opplæring. En av grunnene 
-# til at opplæringen skal være gratis er at alle skal ha samme tilbud, 
+# til at utdanning er gratis er for at alle skal ha samme tilbud, 
 # uansett bakgrunn. Det er også blitt forsket på om det er en klar 
 # sammenheng mellom utdanning og økonomisk utvikling. 
 # Ifølge utdanning.no har land  med en høyt utdannet befolkning høyere 
